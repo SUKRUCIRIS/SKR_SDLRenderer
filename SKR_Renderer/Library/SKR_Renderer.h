@@ -10,8 +10,6 @@ typedef struct {
 
 typedef struct SKR_RenderObject SKR_RenderObject;
 
-typedef struct SKR_RenderAnimationObject SKR_RenderAnimationObject;
-
 void SKR_RendererInit();
 
 void SKR_RendererQuit();
