@@ -1,5 +1,5 @@
 # SKR_Renderer
-SKR_Renderer is a simple SDL wrapper which simplifies things like making sprite animations. 
+SKR_Renderer is a SDL wrapper which simplifies a lot of things in areas such menu creation, animation making, etc.
 
 Look at the header file and the example to learn how to use it.
 
